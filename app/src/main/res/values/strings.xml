@@ -1,0 +1,314 @@
+<resources>
+    <string name="app_name">Virtual-In</string>
+    <string name="team_name">WAROK DROID</string>
+    <string name="powered_by">Powered by</string>
+    <string name="email_input_hint">Type Your  Email…</string>
+    <string name="password_input_hint">Type Your Password…</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="new_user">New user?</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="re_password">Re-Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in_with_google">Sign in with google</string>
+    <string name="verify_account">Verify Account</string>
+    <string name="verify_account_details">Please send verification code we sent to your email address</string>
+    <string name="button_continue">Continue</string>
+    <string name="resend">Resend</string>
+    <string name="title_home">Home</string>
+    <string name="promotion">Promotion</string>
+    <string name="profile">Profile</string>
+    <string name="point">Point : %s</string>
+    <string name="founder">Founder : %s</string>
+    <string name="about_this_umkm">About This UMKM</string>
+    <string name="my_point">My Point</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="categories"><u>Categories</u></string>
+    <string name="top_points"><u>Top Points</u></string>
+    <string name="my_point_156_000">My Point : 156.000</string>
+    <string name="get_cashback">Dapatkan kupon cashback</string>
+    <string name="text_info_point">Tukarkan pointmu\ndengan\ncashback, diskon, dan\ngiveaway</string>
+    <string name="cashback_produk">Cashback Produk</string>
+    <string name="price_old">Rp. %s</string>
+    <string name="price_new">Rp. %s</string>
+    <string name="point_total">%s Point</string>
+    <string name="profile_name">Muhammad Faisal</string>
+    <string name="profile_address">Madiun, Jawa Timur, Indonesia</string>
+    <string name="profile_point">My Point:\n156.000</string>
+    <string name="search_product">Cari Produk</string>
+    <string name="email">Email</string>
+    <string name="profile_email">muh.faisal572@gmail.com</string>
+    <string name="phone">Phone</string>
+    <string name="profile_phone_number">0123 7282 7827</string>
+    <string name="website">Website</string>
+    <string name="profile_website">www.warokdroid.com</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="profile_zip_code">65646</string>
+
+    <string-array name="category_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="category_name">
+        <item>UMKM KRIYA</item>
+        <item>UMKM KULINER</item>
+        <item>UMKM PENDIDIKAN</item>
+        <item>UMKM PETERNAKAN</item>
+        <item>UMKM PERTANIAN</item>
+        <item>UMKM FASHION</item>
+        <item>UMKM FURNITUR</item>
+        <item>UMKM TEKNOLOGI</item>
+        <item>UMKM OTOMOTIF</item>
+        <item>UMKM KOSMETIK</item>
+    </string-array>
+
+    <array name="category_icon">
+        <item>@drawable/category_1</item>
+        <item>@drawable/category_2</item>
+        <item>@drawable/category_3</item>
+        <item>@drawable/category_4</item>
+        <item>@drawable/category_5</item>
+        <item>@drawable/category_6</item>
+        <item>@drawable/category_7</item>
+        <item>@drawable/category_8</item>
+        <item>@drawable/category_9</item>
+        <item>@drawable/category_10</item>
+    </array>
+
+    <string-array name="umkm_name">
+        <item>Ical Clothes</item>
+        <item>Smart Farm</item>
+        <item>Warok Center</item>
+        <item>Bakso Bang Ucup</item>
+        <item>Glowing Dong</item>
+        <item>Yoga Furnitur</item>
+        <item>VegaPress</item>
+        <item>Master Printing</item>
+        <item>Bibit Unggul 21</item>
+        <item>Kartel Kulit</item>
+        <item>Seken Art</item>
+        <item>Kinny Store</item>
+        <item>Batik Cap</item>
+        <item>Adelia Art</item>
+        <item>Catering Sehat</item>
+        <item>Es Pisang Ijo</item>
+        <item>Stickee</item>
+        <item>SiCoJu</item>
+        <item>Erik Comp</item>
+        <item>Emus Fashion</item>
+    </string-array>
+
+
+    <string-array name="umkm_founder_name">
+        <item>Muhammad Faisal</item>
+        <item>Adila Mursyid</item>
+        <item>Gesang Prayoga</item>
+        <item>Yusuf Yahya</item>
+        <item>Rezha Ayu</item>
+        <item>Rendi Utama</item>
+        <item>Rio Mahendra</item>
+        <item>Amarullah</item>
+        <item>Sartono</item>
+        <item>Candra</item>
+        <item>Arif Rifa\'i</item>
+        <item>Niki Yulian</item>
+        <item>Roli Evan</item>
+        <item>Delva</item>
+        <item>Innas Putri</item>
+        <item>Fitriyanti</item>
+        <item>Melyana Dwi</item>
+        <item>Yolanda</item>
+        <item>Erik Rio</item>
+        <item>Andreas</item>
+    </string-array>
+
+    <string-array name="umkm_rating">
+        <item>4.9</item>
+        <item>4.1</item>
+        <item>4.4</item>
+        <item>4.0</item>
+        <item>3.5</item>
+        <item>4.9</item>
+        <item>3.9</item>
+        <item>3.1</item>
+        <item>2.5</item>
+        <item>4.8</item>
+        <item>2.0</item>
+        <item>2.4</item>
+        <item>1.9</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.1</item>
+        <item>3.2</item>
+        <item>3.0</item>
+        <item>4.8</item>
+        <item>4.3</item>
+    </string-array>
+
+    <array name="umkm_icon">
+        <item>@drawable/islamic_fashion</item>
+        <item>@drawable/smart_farm</item>
+        <item>@drawable/warok_mart</item>
+        <item>@drawable/bakso_bang_ucup</item>
+        <item>@drawable/glowing_id</item>
+        <item>@drawable/yoga_furniture</item>
+        <item>@drawable/vega_press</item>
+        <item>@drawable/master_printing</item>
+        <item>@drawable/bibit_unggul</item>
+        <item>@drawable/kartal_kulit</item>
+        <item>@drawable/sekan_art</item>
+        <item>@drawable/kinny_store</item>
+        <item>@drawable/batik_cap</item>
+        <item>@drawable/adelia_art</item>
+        <item>@drawable/catering_makanan_sehat</item>
+        <item>@drawable/es_pisang_ijo</item>
+        <item>@drawable/stickee</item>
+        <item>@drawable/sicoju</item>
+        <item>@drawable/erik_computer</item>
+        <item>@drawable/emus_fashion</item>
+    </array>
+
+    <string-array name="umkm_about">
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+    </string-array>
+
+    <string-array name="customer_name">
+        <item>Erik Rio Setiawan</item>
+        <item>Andreas Mustofa</item>
+        <item>Muhammad Faisal</item>
+        <item>Adila Mursyid</item>
+        <item>Gesang Prayoga</item>
+        <item>Rezha Ayu Nandita</item>
+        <item>Rendi Yoga Utama</item>
+        <item>Rio Mahendra</item>
+        <item>Ma\'ruf Amarullah</item>
+        <item>Sartono</item>
+    </string-array>
+
+    <array name="customer_photo">
+        <item>@drawable/profile_1</item>
+        <item>@drawable/profile_2</item>
+        <item>@drawable/profile_3</item>
+        <item>@drawable/profile_4</item>
+        <item>@drawable/profile_5</item>
+        <item>@drawable/profile_6</item>
+        <item>@drawable/profile_7</item>
+        <item>@drawable/profile_8</item>
+        <item>@drawable/profile_9</item>
+        <item>@drawable/profile_10</item>
+    </array>
+
+    <string-array name="customer_point">
+        <item>9900</item>
+        <item>9550</item>
+        <item>9430</item>
+        <item>9320</item>
+        <item>8034</item>
+        <item>7540</item>
+        <item>7019</item>
+        <item>6510</item>
+        <item>5590</item>
+        <item>5205</item>
+    </string-array>
+
+    <array name="product_icon">
+        <item>@drawable/vas_bunga</item>
+        <item>@drawable/guci</item>
+        <item>@drawable/keranjang_ayaman</item>
+        <item>@drawable/batik_1</item>
+        <item>@drawable/body_lotion</item>
+        <item>@drawable/daging_sapi</item>
+        <item>@drawable/karpet</item>
+        <item>@drawable/kusri1</item>
+        <item>@drawable/pisang_coklat</item>
+        <item>@drawable/ukirankayu</item>
+    </array>
+
+    <string-array name="product_name">
+        <item>Vas Bunga</item>
+        <item>Guci</item>
+        <item>Keranjang Anyaman</item>
+        <item>Batik</item>
+        <item>Body Lotion</item>
+        <item>Daging Sapi</item>
+        <item>Karpet</item>
+        <item>Kursi</item>
+        <item>Pisang Coklat</item>
+        <item>Ukiran Kayu</item>
+    </string-array>
+
+    <string-array name="product_old_price">
+        <item>25.000</item>
+        <item>230.000</item>
+        <item>84.000</item>
+        <item>14.000</item>
+        <item>120.000</item>
+        <item>65.000</item>
+        <item>82.000</item>
+        <item>5.000</item>
+        <item>125.000</item>
+        <item>88.500</item>
+    </string-array>
+
+    <string-array name="product_new_price">
+        <item>15.000</item>
+        <item>185.000</item>
+        <item>11.000</item>
+        <item>97.000</item>
+        <item>45.000</item>
+        <item>85.000</item>
+        <item>65.000</item>
+        <item>3.000</item>
+        <item>100.000</item>
+        <item>70.000</item>
+    </string-array>
+
+    <string-array name="total_point">
+        <item>700</item>
+        <item>890</item>
+        <item>553</item>
+        <item>1100</item>
+        <item>1200</item>
+        <item>450</item>
+        <item>200</item>
+        <item>130</item>
+        <item>1250</item>
+        <item>1945</item>
+    </string-array>
+</resources>
